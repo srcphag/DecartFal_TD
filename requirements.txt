@@ -1,0 +1,5 @@
+fal-client
+numpy
+opencv-python
+aiortc
+av

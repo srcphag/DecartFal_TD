@@ -1,0 +1,8 @@
+{
+    "active": true,
+    "mode": "Python vEnv",
+    "envName": "Decart_RT_API_vEnv",
+    "installPath": "D:\\Dev\\Decart_RT_API",
+    "pythonVersion": "3.11",
+    "pythonVersionNoDot": "311"
+}
